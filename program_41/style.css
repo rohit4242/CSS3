@@ -1,0 +1,25 @@
+*{
+    background-color: #0adbe2;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.head{
+    color: rgb(221, 13, 13);
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.box p{
+    font-size: 30px;
+    background-color: #fff;
+    color: rgb(230, 31, 31);
+    padding: 10px;
+    border: solid 10px black;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
